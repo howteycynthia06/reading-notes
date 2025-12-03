@@ -15,23 +15,23 @@ start.
 
 ## What do the following commands do?
 
-1. pwd
+1. **pwd**
 
 * It simply shows the folder you are currently in when using a terminal or shell.
 
-1. ls
+2. **ls**
 
 * ls is a command used in many command-line environments to list files and folders in the current directory.
 
-1. cd
+3. **cd**
 
 * It's a command used in terminals to use into different folders.
 
-1. mkdir
+4. **mkdir**
 
 * Make Directory, It is a command used in terminals to create a new folder.
 
-1. touch
+5. **touch**
 
 * Create an empty file, It’s mainly used by developers to quickly create new files from the terminal.
 
